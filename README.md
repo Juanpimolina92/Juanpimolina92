@@ -2,7 +2,7 @@
 <h3 align="center">Técnico en Telecomunicaciones en transición hacia el Desarrollo Full Stack</h3>
 
 - 🔭 Actualmente cursando la carrera de **Desarrollo Full Stack** en **Coderhouse**
-- 🐍 Complete el curso de **Python** en **Santander Open Academy**
+- 🐍 curso completo de **Python** en **Santander Open Academy**
 - 📡 Más de 10 años de experiencia en instalación, empalmes y mantenimiento de redes de fibra óptica (FTTH) y cobre en Telefónica Móviles / Movistar Argentina
 - 📊 Me apasionan los datos, las estadísticas y resolver problemas
 - 📫 Contacto: molinapablo72@gmail.com
