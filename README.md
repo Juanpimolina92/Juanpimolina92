@@ -2,7 +2,7 @@
 <h3 align="center">Técnico en Telecomunicaciones en transición hacia el Desarrollo Full Stack</h3>
 
 - 🔭 Actualmente cursando la carrera de **Desarrollo Full Stack** en **Coderhouse**
-- 🐍 Completé el curso de **Python** en **Santander Open Academy**
+- 🐍 Complete el curso de **Python** en **Santander Open Academy**
 - 📡 Más de 10 años de experiencia en instalación, empalmes y mantenimiento de redes de fibra óptica (FTTH) y cobre en Telefónica Móviles / Movistar Argentina
 - 📊 Me apasionan los datos, las estadísticas y resolver problemas
 - 📫 Contacto: molinapablo72@gmail.com
@@ -29,7 +29,7 @@ Proyecto desarrollado durante el programa Full Stack de Coderhouse. Incluye:
 - Integración de **Bootstrap** vía CDN: navbar responsivo con menú hamburguesa y carousel de galería de imágenes
 - Estados interactivos con pseudoclases (`:hover`, `:focus`, `:active`) y `transition`
 
-🔗 [Ver repositorio](https://github.com/tu-usuario/pagina-cafeteria)
+🔗(https://cafe-juan-p-aseo.vercel.app/)
 
 <br>
 
